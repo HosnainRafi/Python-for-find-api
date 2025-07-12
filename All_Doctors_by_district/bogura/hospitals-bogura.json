@@ -1,0 +1,1944 @@
+{
+  "district": "Bogura",
+  "hospitals": [
+    {
+      "name": "Chest & Asthma Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/chest-specialist-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. Md. Mojibar Rahman Selim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Prof.-Dr.-Md.-Mojibar-Rahman-Selim.jpg",
+          "degree": "MBBS, DTCD, MD (Cardiology), WHO Fellow (Interventional Cardiology)",
+          "specialty": "Clinical & Interventional Cardiologist & Chest Specialist",
+          "workplace": "Professor & Head, Department of Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-mojibar-rahman-selim/"
+        },
+        {
+          "name": "Dr. Debashis Kumar Gupta",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MCPS, MD (Chest Diseases)",
+          "specialty": "Chest Diseases & Asthma Specialist",
+          "workplace": "Former Assistant Professor & Head, Respiratory Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-debashis-kumar-gupta/"
+        },
+        {
+          "name": "Dr. K.M. Monjurul Alom",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-K.M.-Monjurul-Alom.jpg",
+          "degree": "MBBS, DTCD, MD (Chest Diseases), FCCP (USA)",
+          "specialty": "Chest Diseases & Asthma Specialist",
+          "workplace": "Assistant Professor, Respiratory Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-k-m-monjurul-alom/"
+        },
+        {
+          "name": "Dr. Rabindra Chandra Mitra",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS (Dhaka), DTCD (DU)",
+          "specialty": "Chest Diseases, Asthma & TB Specialist",
+          "workplace": "Consultant, Chest Diseases",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-rabindra-chandra-mitra/"
+        },
+        {
+          "name": "Dr. Md. Mehedi Hasan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MD (CHEST)",
+          "specialty": "Asthma & Chest Diseases Specialist",
+          "workplace": "Consultant, Respiratory Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-mehedi-hasan-chest/"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Cardiology Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/cardiologist-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. Shibly Hayder",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MD (Cardiology)",
+          "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+          "workplace": "Former Professor (Cardiology)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-shibly-hayder/"
+        },
+        {
+          "name": "Prof. Dr. Md. Mojibar Rahman Selim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Prof.-Dr.-Md.-Mojibar-Rahman-Selim.jpg",
+          "degree": "MBBS, DTCD, MD (Cardiology), WHO Fellow (Interventional Cardiology)",
+          "specialty": "Clinical & Interventional Cardiologist & Chest Specialist",
+          "workplace": "Professor & Head, Department of Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-mojibar-rahman-selim/"
+        },
+        {
+          "name": "Dr. S.M. Shahidul Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-S.M.-Shahidul-Haque.jpg",
+          "degree": "MBBS, BCS (Health), D-CARD, MD (Cardiology)",
+          "specialty": "Cardiology Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-m-shahidul-haque/"
+        },
+        {
+          "name": "Dr. Akhtaruzzaman Razu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Akhtaruzzaman-Razu.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology), FRCP (Glasgow), MACP (USA)",
+          "specialty": "Cardiology, Hypertension & Medicine Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-akhtaruzzaman-razu/"
+        },
+        {
+          "name": "Dr. Mohammad Ruhul Amin Manzil",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Mohammad-Ruhul-Amin-Manzil.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology, Medicine, Rheumatology & Hypertension Specialist",
+          "workplace": "Consultant, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-mohammad-ruhul-amin-manzil/"
+        },
+        {
+          "name": "Lt. Col. Dr. Abu Yousuf Md. Shahidul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Abu-Yousuf-Md.-Shahidul-Alam.jpg",
+          "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), D-CARD (China), MMED (China)",
+          "specialty": "Certified Course in Cardiac EPS & RFA (Turkey)",
+          "workplace": "Cardiology & Medicine Specialist",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-abu-yousuf-md-shahidul-alam/"
+        },
+        {
+          "name": "Dr. Alok Chandra Sarkar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Alok-Chandra-Sarkar.jpg",
+          "degree": "MBBS, BCS (Health), D-CARD (NICVD), ECHO (AIMS),CCD (BIRDEM)",
+          "specialty": "Cardiology & Diabetes Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-alok-chandra-sarkar/"
+        },
+        {
+          "name": "Dr. A.B.M. Jamil",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology, Medicine, Hypertension & Rheumatic Fever Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-b-m-jamil/"
+        },
+        {
+          "name": "Dr. Md. Arifur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Arifur-Rahman-1.jpg",
+          "degree": "MBBS, D-CARD, FCCP, FACC, FRCP (UK), PhD, Fellow (Cardiology)",
+          "specialty": "Cardiology & Hypertension Specialist",
+          "workplace": "Associate Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-arifur-rahman-cardiologist/"
+        },
+        {
+          "name": "Dr. Morshedul Ahsan Shamim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Morshedul-Ahsan-Shamim.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology (Heart Diseases), Hypertension, & Rheumatic Fever Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-morshedul-ahsan-shamim/"
+        },
+        {
+          "name": "Dr. Md. Younus Ali",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, CCD (BIRDEM), D-CARD (BSMMU)",
+          "specialty": "Cardiology, Blood Pressure, Rheumatic Fever & Diabetes Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-younus-ali-cardiology/"
+        },
+        {
+          "name": "Dr. Md. Shahadat Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-cardiology/"
+        },
+        {
+          "name": "Dr. A.K.M. Rezwanul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology, Medicine, Rheumatic Fever & Hypertension Specialist",
+          "workplace": "Junior Consultant, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-k-m-rezwanul-islam/"
+        },
+        {
+          "name": "Dr. Md. Najmus Sakib",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2025/01/Dr.-Md.-Najmus-Sakib.jpg",
+          "degree": "MBBS, BCS, MD (CARDIOLOGY), MACP (USA)",
+          "specialty": "Clinical & Interventional Cardiologist and Rheumatic Fever Specialist",
+          "workplace": "Consultant (Cardiology)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-najmus-sakib/"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "Anesthesiology (Pain) Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/anesthesiologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Nitai Chandra Sarkar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Nitai-Chandra-Sarkar.jpg",
+          "degree": "MBBS, DA, FCPS (Anesthesiology), Fellow Pain Management (India, Thailand)",
+          "specialty": "Pain Specialist & Anesthesiologist",
+          "workplace": "Associate Professor & Head, Anesthesiology, ICU & Pain Management",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-nitai-chandra-sarkar/"
+        },
+        {
+          "name": "Dr. Md. Nur Alam Nayan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Nur-Alam-Nayan.jpg",
+          "degree": "MBBS, BCS (Health), DA (BSMMU), FIPM (Pain Management)",
+          "specialty": "Pain Medicine & Anesthesiology Specialist",
+          "workplace": "Consultant, Anesthesiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-nur-alam-nayan/"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Cardiac Surgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/cardiac-surgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Md. Kamrul Hasan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MS (CVTS)",
+          "specialty": "Cardiovascular & Thoracic Specialist Surgeon",
+          "workplace": "Consultant, Cardiac Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-kamrul-hasan-cardiac/"
+        },
+        {
+          "name": "Lt. Col. Dr. Md. Kamrul Huda",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr.-Md.-Kamrul-Huda.jpg",
+          "degree": "MBBS, MCPS, FCPS (Surgery), FCPS (Thoracic Surgery), FACS (USA)",
+          "specialty": "General, Laparoscopic & Thoracic Surgery Specialist",
+          "workplace": "Associate Professor & Head of the Department of Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-md-kamrul-huda/"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Cancer Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/oncologist-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. A.K.M. Ahsan Habib",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Dr.-A.K.M.-Ahsan-Habib.jpg",
+          "degree": "MBBS, DMRT, Higher Training in Cancer (China, Germany)",
+          "specialty": "Cancer Specialist",
+          "workplace": "Former Professor & Head, Radiotherapy",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-ahsan-habib/"
+        },
+        {
+          "name": "Dr. Md. Ershadul Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Ershadul-Haque.jpg",
+          "degree": "MBBS, BCS (Health), MD (Oncology)",
+          "specialty": "Cancer, Chemotherapy & Radiotherapy Specialist",
+          "workplace": "Consultant, Oncology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ershadul-haque/"
+        },
+        {
+          "name": "Dr. Md. Mobasser ur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2023/11/Dr-Md.-Mobasser-ur-Rahman.jpg",
+          "degree": "MBBS, MPhil (Radiation Oncology)",
+          "specialty": "WHO Fellow at Hinduja Hospital, Mumbai, India, PGT (Medicine)",
+          "workplace": "Cancer SpecialistChemotherapy, Radiotherapy, Hormone Therapy, Immunotherapy, Oral Chemotherapy, Brachytherapy",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-mobasser-ur-rahman/"
+        },
+        {
+          "name": "Dr. Sonia Sheherin Toma",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Sonia-Sheherin-Toma.jpg",
+          "degree": "MBBS, BCS (Health), MPhil (Radiotherapy)",
+          "specialty": "Cancer & Breast Cancer Specialist",
+          "workplace": "Consultant, Radiotherapy",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sonia-sheherin-toma/"
+        },
+        {
+          "name": "Asst. Prof. Dr. Md. Tousifur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Tousifur-Rahman.jpg",
+          "degree": "MBBS, MD (Oncology)",
+          "specialty": "Clinical & Radiation Oncologist (Cancer Specialist)",
+          "workplace": "Assistant Professor, Oncology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-tousifur-rahman/"
+        },
+        {
+          "name": "Dr. Shakera Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Shakera-Sultana.jpg",
+          "degree": "MBBS, MPhil (Radiation Oncology), PGT (Medicine), DMU (Dhaka)",
+          "specialty": "Clinical & Radiation Oncologist",
+          "workplace": "Cancer Specialist",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-shakera-sultana/"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "Child Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/pediatrician-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Md. Ataur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Ataur-Rahman.jpg",
+          "degree": "MBBS, FCPS (CHILD)",
+          "specialty": "Child & Newborn Diseases Specialist",
+          "workplace": "Associate Professor & Head, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ataur-rahman-child/"
+        },
+        {
+          "name": "Prof. Dr. A.K. Boshak",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics), MD (Neonatal)",
+          "specialty": "Newborn & Child Specialist",
+          "workplace": "Former Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-a-k-boshak/"
+        },
+        {
+          "name": "Dr. Md. Khalilur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Khalilur-Rahman.jpg",
+          "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+          "specialty": "Neonatal & Child Specialist",
+          "workplace": "Ex. Assistant Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-khalilur-rahman-child/"
+        },
+        {
+          "name": "Dr. Sharmin Afrozi Shilpy",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Sharmin-Afrozi-Shilpy.jpg",
+          "degree": "MBBS, DCH, FCPS (Pediatrics), PGPN (BOSTON)",
+          "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sharmin-afrozi-shilpy/"
+        },
+        {
+          "name": "Prof. Brg. Gen. Dr. Jesmin Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Brg.-Gen.-Dr.-Jesmin-Sultana.jpg",
+          "degree": "MBBS, DCH, MCPS, FCPS (Pediatrics)",
+          "specialty": "Neonatal, Adolescent, Child Diseases Specialist",
+          "workplace": "Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-brg-gen-dr-jesmin-sultana/"
+        },
+        {
+          "name": "Dr. Jakia Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Jakia-Sultana.jpg",
+          "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
+          "specialty": "Child Diseases & Child Kidney Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-jakia-sultana/"
+        },
+        {
+          "name": "Prof. Dr. Md. Rafiqul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, DCH, MD (CHILD)",
+          "specialty": "Child & Newborn Diseases Specialist",
+          "workplace": "Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-rafiqul-islam-child/"
+        },
+        {
+          "name": "Dr. Samia Chharra",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, MCPS (Pediatrics), FCPS (Pediatrics)",
+          "specialty": "Newborn & Child Specialist",
+          "workplace": "Assistant Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-samia-chharra/"
+        },
+        {
+          "name": "Dr. Labiba Hossainy Honey",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Labiba-Hossainy-Honey.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (Pediatrics), FCPS (Pediatrics)",
+          "specialty": "Neonatal & Child Diseases Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-labiba-hossaini-honey/"
+        },
+        {
+          "name": "Dr. Anjona Boshak",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+          "specialty": "Child Diseases Specialist",
+          "workplace": "Assistant Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-anjona-boshak/"
+        },
+        {
+          "name": "Dr. Monzira Rahman Dita",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Monzira-Rahman-Dita.jpg",
+          "degree": "MBBS, MD (Pediatrics)",
+          "specialty": "Newborn & Child Diseases Specialist",
+          "workplace": "Assistant Professor, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-monzira-rahman-dita/"
+        },
+        {
+          "name": "Dr. A.S.M Selim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, DCH (BSMMU)",
+          "specialty": "Training on Child Development Therapy (BPF)",
+          "workplace": "Newborn, Child Diseases & Development Specialist",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-s-m-selim/"
+        },
+        {
+          "name": "Dr. Md. Shawkat Zamil",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+          "specialty": "Child Diseases Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shawkat-zamil/"
+        },
+        {
+          "name": "Dr. Tania Ferdousi",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Tania-Ferdousi.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (Pediatrics), MD (Pediatrics) BSMMU",
+          "specialty": "Newborn & Child Diseases Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-tania-ferdousi/"
+        },
+        {
+          "name": "Dr. Md. Humayon Kabir (Shipon)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Humayon-Kabir-Shipon.jpg",
+          "degree": "MBBS (CMC), DCH (BSMMU)",
+          "specialty": "Newborn & Child Health Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-humayon-kabir-shipon/"
+        },
+        {
+          "name": "Dr. Md. Raihanul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr-Md-Raihanul-Islam.jpg",
+          "degree": "MBBS (CMC), DCH (DMC), CCD (BIRDEM)",
+          "specialty": "Newborn & Child Diseases Specialist",
+          "workplace": "Resident Physician, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-raihanul-islam/"
+        }
+      ],
+      "count": 16
+    },
+    {
+      "name": "Colorectal Surgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/colorectal-surgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Rokhsana Sharmin Shanta",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Rokhsana-Sarmin.jpg",
+          "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
+          "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+          "workplace": "Consultant, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-rokhsana-sharmin-shanta/"
+        },
+        {
+          "name": "Dr. ABM Zafar Sadik",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-ABM-Zafar-Sadik.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+          "specialty": "Piles, Colorectal, Laparoscopic & General Specialist Surgeon",
+          "workplace": "Assistant Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-abm-zafar-sadik/"
+        },
+        {
+          "name": "Dr. Md. Zakirul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
+          "workplace": "Associate Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-zakirul-alam/"
+        },
+        {
+          "name": "Dr. Lokman Hossain Juwel",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Lokman-Hossain.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "Colorectal, General & Laparoscopic Surgeon",
+          "workplace": "Consultant & Surgeon, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-lokman-hossain-juwel/"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Dental Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/dentist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Shams ul Islam (Zakaria)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2024/12/Dr.-Shams-ul-Islam-Zakaria.jpg",
+          "degree": "BDS, PGT, DDC",
+          "specialty": "Special training on Fixed Orthodontic Treatment, Clear Aligner, Dental Implant & Maxillofacial Surgery",
+          "workplace": "Oral and Dental Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-shams-ul-islam-zakaria/"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Diabetes & Hormone Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/endocrinologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Samir Kumar Talukder",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Samir-Kumar-Talukder.jpg",
+          "degree": "MBBS, MD (Endocrinology)",
+          "specialty": "Diabetes, Hormone & Thyroid Specialist",
+          "workplace": "Associate Professor & Head, Endocrinology & Metabolism",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-samir-kumar-talukder/"
+        },
+        {
+          "name": "Dr. Md. Jahangir Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Jahangir-Alam.jpg",
+          "degree": "MBBS, BCS (Health), MD (Endocrinology)",
+          "specialty": "Diabetes, Hormone, Thyroid & Endocrine Medicine Specialist",
+          "workplace": "Assistant Professor, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/md-jahangir-alam/"
+        },
+        {
+          "name": "Dr. Md. Ahamedul Kabir Jhinuk",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Ahmedul-Kabir-jhinuk.jpg",
+          "degree": "MBBS, BCS (Health), MD (Endocrinology), MACE (USA)",
+          "specialty": "Diabetes, Thyroid & Hormone Specialist",
+          "workplace": "Consultant, Endocrinology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ahmedul-kabir/"
+        },
+        {
+          "name": "Dr. Md. Abu Shehab",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Abu-Shehab.jpg",
+          "degree": "MBBS, MD (Endocrinology)",
+          "specialty": "Hormone, Thyroid & Endocrinology Specialist",
+          "workplace": "Consultant, Endocrinology & Metabolism",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-abu-shehab/"
+        },
+        {
+          "name": "Dr. Md. Humayun Kabir",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), DEM (BIRDEM)",
+          "specialty": "Diabetes & Hormone Specialist",
+          "workplace": "Former Consultant, Endocrinology & Metabolism",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-humayun-kabir/"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "ENT Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/otolaryngologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Md. Saiduzzaman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Saiduzzaman.jpg",
+          "degree": "MBBS, FCPS (ENT), MS (ENT)",
+          "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Surgeon",
+          "workplace": "Associate Professor & Head, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-saiduzzaman/"
+        },
+        {
+          "name": "Dr. Hasan Ali",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Hasan-Ali.jpg",
+          "degree": "MBBS, BCS (Health), MD (ENT)",
+          "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+          "workplace": "Assistant Professor, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-hasan-ali/"
+        },
+        {
+          "name": "Dr. Md. Khorshed Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (ENT)",
+          "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+          "workplace": "Consultant & Surgeon, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-khorshed-alam-ent/"
+        },
+        {
+          "name": "Dr. Syed Sanaul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Syed-Sanaul-Islam.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (ENT)",
+          "specialty": "ENT Specialist & Surgeon",
+          "workplace": "Assistant Professor, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-syed-sanaul-islam/"
+        },
+        {
+          "name": "Dr. Md. Anisur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MS (ENT)",
+          "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+          "workplace": "Assistant Professor, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-anisur-rahman-ent/"
+        },
+        {
+          "name": "Prof. Dr. Md. Abdul Gaffar Faruk",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Prof.-Dr.-Md.-Abdul-Gaffar-Faruk.jpg",
+          "degree": "MBBS, DLO (ENT)",
+          "specialty": "ENT Specialist & Surgeon",
+          "workplace": "Former Professor, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-gaffar-faruk/"
+        },
+        {
+          "name": "Lt. Col. Dr. Golam Rabbani",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr.-Golam-Rabbani.jpg",
+          "degree": "MBBS, FCPS (ENT)",
+          "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+          "workplace": "Consultant, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-golam-rabbani/"
+        },
+        {
+          "name": "Dr. A.Q.M Mahmudul Haque Mamun",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+          "specialty": "ENT Specialist & Surgeon",
+          "workplace": "Assistant Professor, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-q-m-mahmudul-haque-mamun/"
+        },
+        {
+          "name": "Dr. A.S.M. Sayem",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-A.S.M.-Sayem.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (ENT)",
+          "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+          "workplace": "Assistant Professor (ENT & Head Neck Surgery)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-s-m-sayem-ent/"
+        },
+        {
+          "name": "Dr. Md. Alamgir Kabir Murad",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, DLO (BSMMU)",
+          "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+          "workplace": "Consultant, ENT",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-alamgir-kabir-murad/"
+        },
+        {
+          "name": "Dr. Ahmad Abdullah Jami",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2025/05/Dr.-Ahmad-Abdullah-Jami.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (ENT), FICS (USA)",
+          "specialty": "Fellowship: Microscopic Ear Surgery (Chennai), Micro-laryngeal Surgery (Pune)Endoscopic Surgery (Nose, Ear & Skull-Base) (Mumbai, UAE)",
+          "workplace": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-ahmad-abdullah-jami/"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "Eye Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/ophthalmologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Pallab Kumar Sen",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Pallab-Kumar-Sen.jpg",
+          "degree": "MBBS, BCS (Health), MS (EYE), Fellowship Glaucoma (LVPEI)",
+          "specialty": "Eye Diseases Specialist & Surgeon",
+          "workplace": "Assistant Professor, Ophthalmology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-pallab-kumar-sen/"
+        },
+        {
+          "name": "Dr. Md. Shahin",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Shahin.jpg",
+          "degree": "MBBS, MCPS (EYE), MS (EYE)",
+          "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+          "workplace": "Assistant Professor, Ophthalmology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-sahin/"
+        },
+        {
+          "name": "Dr. Md. Abul Kalam Azad",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Abul-Kalam-Azad-1.jpg",
+          "degree": "MBBS, DO, FCPS (EYE)",
+          "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+          "workplace": "Former Chief Consultant, Ophthalmology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-eye/"
+        },
+        {
+          "name": "Dr. Ezaj Ahmed",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Ezaj-Ahmed.jpg",
+          "degree": "MBBS, BCS (Health), DO (DU)",
+          "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+          "workplace": "Assistant Professor, Ophthalmology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-ezaj-ahmed/"
+        },
+        {
+          "name": "Dr. Md. Ibrahim Khalilullah",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Ibrahim-Khalilullah.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (EYE)",
+          "specialty": "Eye Diseases Specialist, Cataract & Phaco Surgeon",
+          "workplace": "Assistant Professor, Ophthalmology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ibrahim-khalilullah/"
+        },
+        {
+          "name": "Dr. Partha S. Barai",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Partha-S.-Barai-1.jpg",
+          "degree": "MBBS, MS (EYE)",
+          "specialty": "Fellow Advanced Phaco Surgery (Chennai, India)",
+          "workplace": "Eye Specialist & Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-partha-s-barai/"
+        },
+        {
+          "name": "Dr. Shamima Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2024/09/Dr.-Shamima-Sultana.jpg",
+          "degree": "MBBS (Dhaka), BCS (Health), FCPS (EYE)",
+          "specialty": "Eye Specialist & Surgeon",
+          "workplace": "Registrar (Eye)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-shamima-sultana-eye/"
+        },
+        {
+          "name": "Dr. Md. Tajmilur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Tajmilur-Rahman.jpg",
+          "degree": "MBBS (RMC), MS (OPHTHALMOLOGY), FELLOWSHIP IN GLAUCOMA",
+          "specialty": "Eye Specialist",
+          "workplace": "Consultant, Phaco & Glaucoma",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-tajmilur-rahman/"
+        },
+        {
+          "name": "Dr. Akshay Kumar Ray",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2024/10/Dr.-Akshay-Kumar-Ray.jpg",
+          "degree": "MBBS, MS (EYE)",
+          "specialty": "Eye Specialist & Phaco Surgeon",
+          "workplace": "Consultant (Eye)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-akshay-kumar-ray/"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "Gastroenterology Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/gastroenterologist-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. Md. Makhsudul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Prof.-Dr.-Md.-Makhsudul-Alam.jpg",
+          "degree": "MBBS, MD (Gastroenterology), Fellowship in Liver Disease (England)",
+          "specialty": "Gastroenterology & Liver Diseases Specialist",
+          "workplace": "Professor (Gastroenterology)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-makhsudul-alam/"
+        },
+        {
+          "name": "Dr. Md. Naymul Hasan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Naymul-Hasan.jpg",
+          "degree": "MBBS, MD (Gastroenterology), CCD (BIRDEM), MACG (USA), Training (Endoscopy)",
+          "specialty": "Gastroenterology, Pancreas & Liver Specialist",
+          "workplace": "Assistant Professor, Gastroenterology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-naimul-hasan/"
+        },
+        {
+          "name": "Dr. J.M. Ariful Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
+          "specialty": "Liver, Gastroenterology & Medicine Specialist",
+          "workplace": "Consultant, Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-jm-ariful-islam/"
+        },
+        {
+          "name": "Dr. Al Mahmood Appolo",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Al-Mahmood-Appolo.jpg",
+          "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
+          "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
+          "workplace": "Resident Physician, Gastroenterology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-al-mahmood-appolo/"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Gynecology & Obstetrics Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/gynecologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Nargish Khanam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Nargish-Khanam.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN), FCPS Thesis (Infertility), CPD (UK), DMU (USG)",
+          "specialty": "Specialized Training in IVF & Infertility (India)",
+          "workplace": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-nargish-khanam/"
+        },
+        {
+          "name": "Dr. Akhtari Hossain Chowdhury Nipa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Akhtari-Hossain-Chowdhury-Nipa.jpg",
+          "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), Training in Infertility (Malaysia)",
+          "specialty": "Gynecology, Infertility Specialist & Surgeon",
+          "workplace": "Associate Professor & Head, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-akhtari-hossain-chowdhury-nipa/"
+        },
+        {
+          "name": "Dr. Mafruha Jahan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Mafruha-Jahan.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+          "workplace": "Senior Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-mafruha-jahan/"
+        },
+        {
+          "name": "Dr. Sultana Razia",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Sultana-Razia.jpg",
+          "degree": "MBBS, DGO, MCPS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sultana-razia-gyne/"
+        },
+        {
+          "name": "Dr. Sharmin Hossain Momy",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Sharmin-Hossain-Momy.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sharmin-hossain-momi/"
+        },
+        {
+          "name": "Dr. Afroza Sarkar Joly",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Afroza-Sarkar-Joly.jpg",
+          "degree": "MBBS, BCS (Health), DGO, FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+          "workplace": "Assistant Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-afroza-sarkar-joly/"
+        },
+        {
+          "name": "Dr. Hasina Akhter Rekha",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN)",
+          "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+          "workplace": "Assistant Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-hasina-akhter-rekha/"
+        },
+        {
+          "name": "Dr. Monogna Chitralekha Kundu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-monogna-chitralekha-kundu/"
+        },
+        {
+          "name": "Dr. Runa Parvin",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Runa-Parvin.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN)",
+          "specialty": "Higher Training in Laparoscopy & Colposcopy",
+          "workplace": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-runa-parvin/"
+        },
+        {
+          "name": "Dr. Mst. Nafisa Khatun Nafsi",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Resident Surgeon, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-mst-nafisa-khatun-nafsi/"
+        },
+        {
+          "name": "Dr. Syeda Begum",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, MS (OBGYN), PhD (Japan), Trained in Fetomaternal Medicine (Delhi)",
+          "specialty": "Certificate Course on Infertility (IRM-Kolkata)",
+          "workplace": "Gynecology, High Risk Pregnancy Specialist & Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-syeda-begum/"
+        },
+        {
+          "name": "Dr. Taslima Abid Shapla",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-taslima-abid-shapla/"
+        },
+        {
+          "name": "Dr. Sharmin Akter Shampa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Sharmin-Akter-Shampa.jpg",
+          "degree": "MBBS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Infertility Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sharmin-akter-shampa/"
+        },
+        {
+          "name": "Dr. Firoza Banu Shirin",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Firoza-Banu-Shirin.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-firoza-banu-shirin/"
+        },
+        {
+          "name": "Dr. Sabrina Parvin Nitu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Sabrina-Parvin-Nitu.jpg",
+          "degree": "MBBS (DMC), BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecologist & Surgeon",
+          "workplace": "Consultant, Gyne & Obs",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sabrina-parvin-nitu/"
+        },
+        {
+          "name": "Dr. Fahmida Shireen Neela",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Fahmida-Shireen-Neela.jpg",
+          "degree": "MBBS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-fahmida-shireen-neela/"
+        },
+        {
+          "name": "Dr. Surovi Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Surovi-Sultana.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Gynecologist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-surovi-sultana/"
+        },
+        {
+          "name": "Dr. Touhida Sultana Shima",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Mst.-Touhida-Sultana.jpg",
+          "degree": "MBBS, MS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-touhida-sultana-shima/"
+        },
+        {
+          "name": "Dr. Joyutpala Shukla",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Joyutpala-Shukla.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Assistant Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-joyutpala-shukla/"
+        },
+        {
+          "name": "Dr. Niva Rani Das",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+          "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-niva-rani-das/"
+        },
+        {
+          "name": "Dr. Monowara Khatun",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, DGO (BSMMU)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Associate Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-monowara-khatun/"
+        },
+        {
+          "name": "Dr. Jennifer Zakaria Shila",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), DGO (DMC), FCPS (OBGYN), CMU (Ultra)",
+          "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-jennifer-zakaria-shila/"
+        }
+      ],
+      "count": 22
+    },
+    {
+      "name": "General & Laparoscopic Surgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/general-surgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Rokhsana Sharmin Shanta",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Rokhsana-Sarmin.jpg",
+          "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
+          "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+          "workplace": "Consultant, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-rokhsana-sharmin-shanta/"
+        },
+        {
+          "name": "Dr. Md. Zakirul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
+          "workplace": "Associate Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-zakirul-alam/"
+        },
+        {
+          "name": "Dr. Lokman Hossain Juwel",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Lokman-Hossain.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "Colorectal, General & Laparoscopic Surgeon",
+          "workplace": "Consultant & Surgeon, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-lokman-hossain-juwel/"
+        },
+        {
+          "name": "Dr. Ganesh Kumar Agarwala",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Ganesh-Kumar-Agarwala.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Surgery)",
+          "specialty": "General, Breast, Colorectal & Laparoscopic Surgery Specialist",
+          "workplace": "Associate Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-ganesh-kumar-agarwala/"
+        },
+        {
+          "name": "Dr. Md. Jamal-E-Rabby",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Jamal-E-Rabby.jpg",
+          "degree": "MBBS, FCPS (Surgery), FMAS",
+          "specialty": "General, Colorectal & Breast Surgeon",
+          "workplace": "Assistant Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-jamal-e-rabby/"
+        },
+        {
+          "name": "Dr. Md. Abul Kalam Azad",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Abul-Kalam-Azad.jpg",
+          "degree": "MBBS, MPH, MS (Surgery), CCD (BIRDEM)",
+          "specialty": "General & Laparoscopic Surgeon",
+          "workplace": "Assistant Professor, Dept of Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-surgeon/"
+        },
+        {
+          "name": "Prof. Dr. Md. Shahjahan Ali",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "General & Laparoscopic Surgeon",
+          "workplace": "Former Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-shahjahan-ali/"
+        },
+        {
+          "name": "Dr. Md. Shaharul Alam Mondol",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MS (Surgery)",
+          "specialty": "General & Laparoscopic Specialist Surgeon",
+          "workplace": "Assistant Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shaharul-alam-mondol/"
+        },
+        {
+          "name": "Dr. Muhammad Anwar Sadat",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Muhammad-Anwar-Sadat.jpg",
+          "degree": "MBBS (Dhaka), BCS (Health), MRCS (Edinburgh), MRCS (Glasgow)",
+          "specialty": "Fellowship in Cancer Surgery (Singapore), Diploma in Laparoscopic Surgery (India)",
+          "workplace": "General, Laparoscopic & Cancer Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-muhammad-anwar-sadat/"
+        },
+        {
+          "name": "Dr. Manobendra Kumar Paul Niloy",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Hepatobiliary Surgery)",
+          "specialty": "General, Laparoscopic & Pancreatic Surgeon",
+          "workplace": "Consultant, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-manobendra-kumar-paul-niloy/"
+        },
+        {
+          "name": "Dr. Md. Salimullah Akando",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MS (Surgery)",
+          "specialty": "General & Laparoscopic Specialist Surgeon",
+          "workplace": "Consultant & Surgeon, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-salimullah-akando/"
+        },
+        {
+          "name": "Dr. Md. Ibne Golam Sabbir",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, FCPS (Surgery)",
+          "specialty": "General & Laparoscopic Specialist Surgeon",
+          "workplace": "Assistant Professor, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ibne-golam-sabbir/"
+        },
+        {
+          "name": "Dr. ASM Aminul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-ASM-Aminul-Islam.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+          "specialty": "General, Laparoscopic, Colorectal & Breast Surgery Specialist",
+          "workplace": "Consultant, Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-asm-aminul-islam/"
+        },
+        {
+          "name": "Lt. Col. Dr. Md. Kamrul Huda",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr.-Md.-Kamrul-Huda.jpg",
+          "degree": "MBBS, MCPS, FCPS (Surgery), FCPS (Thoracic Surgery), FACS (USA)",
+          "specialty": "General, Laparoscopic & Thoracic Surgery Specialist",
+          "workplace": "Associate Professor & Head of the Department of Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-md-kamrul-huda/"
+        },
+        {
+          "name": "Dr. S. Belal Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-S.-Belal-Hossain.jpg",
+          "degree": "MBBS, MCPS (Surgery), FCPS (Surgery)",
+          "specialty": "General, Pediatric and Laparoscopic Specialist Surgeon",
+          "workplace": "Senior Consultant, Dept of Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-belal-hossain/"
+        }
+      ],
+      "count": 15
+    },
+    {
+      "name": "Hematology (Blood) Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/hematologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Surozit Sarkar Titas",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Surozit-Sarkar-Titas.jpg",
+          "degree": "MBBS, MD (Hematology)",
+          "specialty": "Hematology & Blood Cancer Specialist",
+          "workplace": "Assistant Professor & Head, Hepatology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-surojeet-sarkar-titas/"
+        },
+        {
+          "name": "Dr. Md. Shafiul Azam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Shafiul-Azam.jpg",
+          "degree": "MBBS, MD (Hematology)",
+          "specialty": "Blood Cancer Specialist & Hematologist",
+          "workplace": "Consultant, Hematology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shafiul-azam-hematology/"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Infertility Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/infertility-specialist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Nargish Khanam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Nargish-Khanam.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (OBGYN), FCPS Thesis (Infertility), CPD (UK), DMU (USG)",
+          "specialty": "Specialized Training in IVF & Infertility (India)",
+          "workplace": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-nargish-khanam/"
+        },
+        {
+          "name": "Dr. Akhtari Hossain Chowdhury Nipa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Akhtari-Hossain-Chowdhury-Nipa.jpg",
+          "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), Training in Infertility (Malaysia)",
+          "specialty": "Gynecology, Infertility Specialist & Surgeon",
+          "workplace": "Associate Professor & Head, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-akhtari-hossain-chowdhury-nipa/"
+        },
+        {
+          "name": "Dr. Hasina Akhter Rekha",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN)",
+          "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+          "workplace": "Assistant Professor, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-hasina-akhter-rekha/"
+        },
+        {
+          "name": "Dr. Taslima Abid Shapla",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-taslima-abid-shapla/"
+        },
+        {
+          "name": "Dr. Sharmin Akter Shampa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Sharmin-Akter-Shampa.jpg",
+          "degree": "MBBS, FCPS (OBGYN)",
+          "specialty": "Gynecology, Infertility Specialist & Surgeon",
+          "workplace": "Consultant, Gynecology & Obstetrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sharmin-akter-shampa/"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Kidney Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/nephrologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. A.N.M Ehsanul Karim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-A.N.M-Ehsanul-Karim.jpg",
+          "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
+          "specialty": "Kidney & Medicine Specialist",
+          "workplace": "Associate Professor & Head, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-n-m-ehsanul-karim/"
+        },
+        {
+          "name": "Dr. A.S.M. Julfekar Helal",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-A.S.M.-Julfekar-Helal.jpg",
+          "degree": "MBBS, MD (Nephrology), CCD (BIRDEM), FCPS (Medicine)",
+          "specialty": "Kidney, Diabetes & Medicine Specialist",
+          "workplace": "Associate Professor, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-s-m-julfekar-helal/"
+        },
+        {
+          "name": "Dr. Swapan Kumar Saha",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Swapan-Kumar-Saha.jpg",
+          "degree": "MBBS, MD (Nephrology), MPH (Epidemiology)",
+          "specialty": "Kidney Diseases Specialist",
+          "workplace": "Associate Professor, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-swapan-kumar-saha/"
+        },
+        {
+          "name": "Dr. A.H.M. Sanjedul Haque Sumon",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-A.H.M.-Sanjedul-Haque-Sumon.jpg",
+          "degree": "MBBS, BCS (Health), MD (Nephrology)",
+          "specialty": "Kidney Diseases Specialist",
+          "workplace": "Consultant, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-h-m-sanjedul-haque-sumon/"
+        },
+        {
+          "name": "Dr. S. Haque Sumon",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Nephrology)",
+          "specialty": "Kidney Diseases Specialist",
+          "workplace": "Consultant, Nephrology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-haque-sumon/"
+        },
+        {
+          "name": "Dr. Jakia Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Jakia-Sultana.jpg",
+          "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
+          "specialty": "Child Diseases & Child Kidney Specialist",
+          "workplace": "Consultant, Pediatrics",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-jakia-sultana/"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "Medicine Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/medicine-specialist-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. Khan Abul Kalam Azad",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Dr.-Khan-Abul-Kalam-Azad.jpg",
+          "degree": "MBBS (DMC), FCPS (Medicine), MD (Internal Medicine), FACP (USA)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Professor & Head, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-khan-abul-kalam-azad/"
+        },
+        {
+          "name": "Prof. Dr. Md. Zakir Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Prof.-Dr.-Md.-Zakir-Hossain.jpg",
+          "degree": "MBBS, FCPS (Medicine), MD (Internal Medicine), FACP (USA), FRCP (UK)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Former Professor & Head, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-zakir-hossain/"
+        },
+        {
+          "name": "Dr. Md. Kamal Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Kamal-Hossain.jpg",
+          "degree": "MBBS (DMC), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-kamal-hossain/"
+        },
+        {
+          "name": "Dr. Fakhrul Islam Juwel",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Fakhrul-Islam-Juwel.jpg",
+          "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), MRCP (Neurology)",
+          "specialty": "Medicine & Neurology Specialist",
+          "workplace": "Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-fakhrul-islam-juwel/"
+        },
+        {
+          "name": "Dr. Md. Halimur Rashid",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Halimur-Rashid.jpg",
+          "degree": "MBBS, FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Associate Professor & Head, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-halimur-rashid/"
+        },
+        {
+          "name": "Dr. Md. Mamunur Rashid",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Mamunur-Rashid-4.jpg",
+          "degree": "MBBS, FCPS (Medicine), MRCP (LONDON, UK)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Associate Professor, Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-mamunur-rashid-medicine/"
+        },
+        {
+          "name": "Dr. Md. Rashedul Kabir",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-rashedul-kabir/"
+        },
+        {
+          "name": "Lt. Col. Dr. Abu Yousuf Md. Shahidul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Abu-Yousuf-Md.-Shahidul-Alam.jpg",
+          "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), D-CARD (China), MMED (China)",
+          "specialty": "Certified Course in Cardiac EPS & RFA (Turkey)",
+          "workplace": "Cardiology & Medicine Specialist",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-abu-yousuf-md-shahidul-alam/"
+        },
+        {
+          "name": "Dr. Md. Abdus Salam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Abdus-Salam.jpg",
+          "degree": "MBBS, BCS (Health), MD (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-abdus-salam-medicine/"
+        },
+        {
+          "name": "Dr. Syed Mahbub Hossain Rajib",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Syed-Mahbub-Hossain-Rajib.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MACP (USA)",
+          "specialty": "Medicine, Rheumatic Fever & Diabetes Specialist",
+          "workplace": "Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-syed-mahbub-hossain-rajib/"
+        },
+        {
+          "name": "Dr. Ripa Kundu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Ripa-Kundu.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-ripa-kundu/"
+        },
+        {
+          "name": "Dr. Md. Rafiqul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Senior Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-2/"
+        },
+        {
+          "name": "Dr. Abu Bakar Siddique",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Abu-Bakar-Siddique.jpg",
+          "degree": "MBBS, FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-abu-bakar-siddique-2/"
+        },
+        {
+          "name": "Dr. Md. Faruk Hossen",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Faruk-Hossen.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-faruk-hossain/"
+        },
+        {
+          "name": "Dr. Md. Ahsan Habib",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
+          "specialty": "Medicine & Diabetes Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-medicine/"
+        },
+        {
+          "name": "Dr. Md. Moniruzzaman Asraf Bipul",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Moniruzzaman-Asraf-Bipul.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-moniruzzaman-ashraf-bipul/"
+        },
+        {
+          "name": "Dr. Md. Aminul Hasan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Aminul-Hasan.jpg",
+          "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
+          "specialty": "Internal Medicine Specialist",
+          "workplace": "Associate Professor, Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-aminul-hasan/"
+        },
+        {
+          "name": "Dr. Abu Hena Mahmud Runu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, CCD (BIRDEM), FCPS (Medicine)",
+          "specialty": "Medicine & Diabetes Specialist",
+          "workplace": "Former Registrar, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-abu-hena-mahmud-runu/"
+        },
+        {
+          "name": "Dr. A.S.M. Sahabur Alam Sumon",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-A.S.M.-Sahabur-Alam-Sumon.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Consultant, Gastroenterology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-s-m-sahabur-alam-sumon/"
+        },
+        {
+          "name": "Dr. S.M. Arafat",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Consultant, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-m-arafat-medicine/"
+        },
+        {
+          "name": "Dr. Md. Ajmirul Hoque Sarkar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Ajmirul-Hoque-Sarkar.jpg",
+          "degree": "MBBS, FCPS (Medicine)",
+          "specialty": "Medicine Specialist",
+          "workplace": "Resident Physician, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ajmirul-hoque-sarkar/"
+        },
+        {
+          "name": "Dr. Md. Monowar Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MD (Medicine)",
+          "specialty": "Medicine & Diabetes Specialist",
+          "workplace": "Assistant Professor, Department of Medicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-monowar-hossain/"
+        }
+      ],
+      "count": 22
+    },
+    {
+      "name": "Neurology/Neuromedicine Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/neurologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Ahmed Ashafuddowla",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr-Ahmed-Ashafuddowla.jpg",
+          "degree": "MBBS (Dhaka), MCPS (Medicine), MD (Neuromedicine)",
+          "specialty": "Neurology & Medicine Specialist",
+          "workplace": "Associate Professor, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-ahmed-ashafuddowla/"
+        },
+        {
+          "name": "Dr. Md. Azizul Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2023/01/Dr.-Md.-Azizul-Haque.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS (Medicine), MD (Neuromedicine), BSMMU, MAAN (USA)",
+          "specialty": "Neurology (Brain, Stroke, Nerve, Headache) & Medicine Specialist",
+          "workplace": "Consultant (Medicine) & Neurologist",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-azizul-haque-neuro/"
+        },
+        {
+          "name": "Dr. Saiful Bashar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Saiful-Bashar.jpg",
+          "degree": "MBBS, MD (Neuromedicine)",
+          "specialty": "Neuromedicine (Brain, Nerve, Headache, Migraine, Stroke) Specialist",
+          "workplace": "Associate Professor, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-saiful-bashar/"
+        },
+        {
+          "name": "Dr. Md. Jafrul Kawsar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Jafrul-Kawsar.jpg",
+          "degree": "MBBS, BCS (Health), MD (Neuro-Medicine)",
+          "specialty": "Neurology & Medicine Specialist",
+          "workplace": "Consultant, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-jafrul-kawsar/"
+        },
+        {
+          "name": "Dr. Md. Ashaduzzaman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Ashaduzzaman.jpg",
+          "degree": "MBBS (Dhaka), BCS (Health), MD (Neuromedicine)",
+          "specialty": "Neuromedicine (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
+          "workplace": "Neuromedicine Specialist, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ashaduzzaman/"
+        },
+        {
+          "name": "Dr. Md. Nazmul Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Neuro-Medicine)",
+          "specialty": "Neurology, Brain, Nerve, Spine, Stroke & Paralysis Specialist",
+          "workplace": "Consultant, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-nazmul-haque-neuro/"
+        },
+        {
+          "name": "Dr. A.B.M. Khairul Hasan",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-A.B.M.-Khairul-Hasan.jpg",
+          "degree": "MBBS, MD (Neuromedicine)",
+          "specialty": "Neuromedicine (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
+          "workplace": "Associate Professor & Head, Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-b-m-khairul-hasan/"
+        },
+        {
+          "name": "Dr. Md. Mahbubur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Mahbubur-Rahman.jpg",
+          "degree": "MBBS, BCS (Health), MD (Neurology)",
+          "specialty": "Neurology Specialist",
+          "workplace": "Assistant Professor, Neurology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-mahbubur-rahman-neurology/"
+        },
+        {
+          "name": "Dr. Md. Towfiqul Islam (Milon)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Towfiqul-Islam.jpg",
+          "degree": "MBBS, BCS (Health), MD (Neurology)",
+          "specialty": "Neuromedicine (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
+          "workplace": "AR (Brain Diseases), Neuromedicine",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-towfiqul-islam/"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "Liver Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/hepatologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. A.S.M Sadequl Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr-A.S.M-Sadequl-Islam.jpg",
+          "degree": "MBBS, BCS (Health), MD (Hepatology), CCD, CMED",
+          "specialty": "Liver, Gastro, Pancreatic Medicine Specialist & Diabetologist",
+          "workplace": "Assistant Professor & Head, Hepatology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-s-m-sadequl-islam/"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Neurosurgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/neurosurgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Prof. Dr. Md. Shafiul Alam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Shafiul-Alam.jpg",
+          "degree": "MBBS, FCPS (Surgery), MS (Neurosurgery), FICS, FACS (America), MRCPS (Glasgow)",
+          "specialty": "Neurosurgery (Brain, Nerve & Spine) Specialist Surgeon",
+          "workplace": "Professor of Neurosurgery (Gamma Knife)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shafiul-alam/"
+        },
+        {
+          "name": "Prof. Dr. Sushanta Kumar Sarkar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Prof.-Dr.-Sushanta-Kumar-Sarkar.jpg",
+          "degree": "MBBS, MS (Neurosurgery, BSMMU)",
+          "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
+          "workplace": "Professor & Head (Neurosurgery)Vice Principal (Ex)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sushanta-kumar-sarkar/"
+        },
+        {
+          "name": "Dr. Milton Kumer Saha",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Milton-Kumer-Saha.jpg",
+          "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+          "specialty": "Specialist Neurosurgeon",
+          "workplace": "Assistant Professor, Neurosurgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-milton-kumer-saha/"
+        },
+        {
+          "name": "Dr. Md. Fazlul Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MS (Neurosurgery)",
+          "specialty": "Brain, Nerve & Neurospine Specialist & Surgeon",
+          "workplace": "Assistant Professor & Head, Neurosurgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-fazlul-haque-2/"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Orthopedic Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/orthopedic-specialist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Naresh Kumar Roy",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Naresh-Kumar-Roy.jpg",
+          "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+          "specialty": "Bone Joint, Arthritis, Orthopedics Specialist & Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-naresh-kumar-roy/"
+        },
+        {
+          "name": "Dr. Md. Rezaul Karim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Rezaul-Karim.jpg",
+          "degree": "MBBS, BCS (Health), MS (Ortho Surgery), AO Spine (Singapore), Fellow (Ilizarov Surgery)",
+          "specialty": "Orthopedic Specialist & Trauma, Spine Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim/"
+        },
+        {
+          "name": "Dr. Abdullah Al Muti Suborno",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MS (Ortho)",
+          "specialty": "Orthopedics Specialist & Trauma Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-abdullah-al-muti-suborno/"
+        },
+        {
+          "name": "Dr. Md. Mohiuddin Aslam Koushik",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Mohiuddin-Aslam-Koushik.jpg",
+          "degree": "MBBS, BCS (Health), MS (Ortho Surgery), Fellowship (Pain Management)",
+          "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-mohiuddin-aslam-koushik/"
+        },
+        {
+          "name": "Dr. Syed Shamsul Arefin Juwel",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Syed-Shamsul-Arefin-Juwel.jpg",
+          "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+          "specialty": "Bone Joint, Fractures, Trauma, Spine Specialist & Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-syed-shamsul-arefin-juwel/"
+        },
+        {
+          "name": "Dr. Md. Wadudul Haq Tarafder Nahid",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/08/Dr.-Md.-Wadudul-Haq-Tarafder-Nahid.jpg",
+          "degree": "MBBS, D-ORTHO, MS (ORTHO, BSMMU), AO Spine (Singapore)",
+          "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-wadudul-haq-tarafder-nahid/"
+        },
+        {
+          "name": "Dr. Md. Arifur Rahman Talukdar",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), D-Ortho (NITOR), AO Trauma (India)",
+          "specialty": "Orthopedic, Trauma & Spine Surgeon",
+          "workplace": "Consultant, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-arifur-rahman-talukdar/"
+        },
+        {
+          "name": "Dr. Md. Nazrul Islam Nahid",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+          "specialty": "Bone Joint, Complex Fractures, Trauma Specialist & Surgeon",
+          "workplace": "Consultant, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-nahid/"
+        },
+        {
+          "name": "Dr. Md. Nazibullah",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS (DU), D-ORTHO (DU)",
+          "specialty": "Orthopedics Specialist & Trauma Surgeon",
+          "workplace": "Associate Professor & Head, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-nazibullah/"
+        },
+        {
+          "name": "Dr. M.A.K. Shams Uddin Mintu",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, D-ORTHO",
+          "specialty": "Orthopedics Specialist & Trauma Surgeon",
+          "workplace": "Former Associate Professor & Head, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-m-a-k-shams-uddin-mintu/"
+        },
+        {
+          "name": "Dr. A.K.M. Shaharul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, D-ORTHO (BSMMU)",
+          "specialty": "Orthopedic Specialist & Trauma Surgeon",
+          "workplace": "Assistant Professor, Orthopedic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-k-m-shaharul-islam/"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "Pediatric Surgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/pediatric-surgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Md. Mizanur Rahman (Shibli)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery)",
+          "specialty": "Neonatal & Pediatric Surgeon",
+          "workplace": "Assistant Professor, Pediatric Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-muhammad-mizanur-rahman-shibli/"
+        },
+        {
+          "name": "Dr. S M Noor E Shadid",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-S-M-Noor-E-Shadid.jpg",
+          "degree": "MBBS, MS (Pediatric Surgery)",
+          "specialty": "Pediatric (Children) Surgery Specialist",
+          "workplace": "Assistant Registrar, Pediatric Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-m-noor-e-shadid/"
+        },
+        {
+          "name": "Dr. Md. Moniruzzaman (Tipu)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Moniruzzaman-Tipu.jpg",
+          "degree": "MBBS, MS (Pediatric Surgery)",
+          "specialty": "Pediatric Surgeon",
+          "workplace": "Resident Surgeon, Pediatric Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-tipu/"
+        },
+        {
+          "name": "Dr. K.M Zafrul Hossain Ripon",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-K.M-Zafrul-Hossain-Ripon.jpg",
+          "degree": "MBBS, MS",
+          "specialty": "Pediatric (Children) Surgery Specialist",
+          "workplace": "Assistant Professor, Pediatric Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-k-m-zafrul-hossain-ripon/"
+        },
+        {
+          "name": "Dr. Mahabur Rahman Sarker",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, MS (Pediatric Surgery)",
+          "specialty": "Pediatric Surgeon",
+          "workplace": "Assistant Professor, Pediatric Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-mahabur-rahman-sarker/"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "Physical Medicine Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/physical-medicine-specialist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. S.M. Atiqul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Physical Medicine)",
+          "specialty": "Physical Medicine Specialist",
+          "workplace": "Assistant Professor, Physical Medicine & Rehabilitation",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-s-m-atiqul-islam/"
+        },
+        {
+          "name": "Dr. Monzur Ahmed",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Monzur-Ahmed-1.jpg",
+          "degree": "MBBS, FCPS (Physical Medicine)",
+          "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+          "workplace": "Assistant Professor, Physical Medicine & Rehabilitation",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-monjur-ahmed/"
+        },
+        {
+          "name": "Dr. Asif Rabbani",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Physical Medicine)",
+          "specialty": "Pain, Arthritis, Paralysis, Physical Medicine & Rehabilitation Specialist",
+          "workplace": "Assistant Registrar, Physical Medicine & Rehabilitation",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-asif-rabbani/"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Plastic Surgery Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/plastic-surgeon-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Sudip Kumar Karmoker",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Sudip-Kumar-Karmoker.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Plastic Surgery)",
+          "specialty": "Burn & Plastic Surgery Specialist",
+          "workplace": "Consultant, Burn & Plastic Surgery",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sudip-kumar-karmoker/"
+        }
+      ],
+      "count": 1
+    },
+    {
+      "name": "Psychiatry (Mental) Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/psychiatrist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Paritosh Kumar Ghosh",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Paritosh-Kumar-Ghosh.jpg",
+          "degree": "MBBS, MCPS, DPM (Psychiatry)",
+          "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
+          "workplace": "Former Assistant Professor & Head, Psychiatry",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-paritosh-kumar-ghosh/"
+        },
+        {
+          "name": "Dr. Md. Maruful Haque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Maruful-Haque.jpg",
+          "degree": "MBBS (DMC), BCS (Health), MCPS (Psychiatry), MD (Psychiatry)",
+          "specialty": "Psychiatry (Mental Diseases, Brain Diseases, Sexual Problem, Drug Addiction) Specialist",
+          "workplace": "Consultant, Psychiatry",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-maruful-haque/"
+        },
+        {
+          "name": "Prof. Dr. Md. Abu Taher",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Dr.-Md.-Abu-Taher.jpg",
+          "degree": "MBBS, DDV, MPhil (Mental Diseases)",
+          "specialty": "Mental Diseases, Headache, Drug Addiction & Psychiatry Specialist",
+          "workplace": "Professor & Head, Psychiatry",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-abu-taher-mental/"
+        },
+        {
+          "name": "Alhaj Dr. Md. Altaf Hossain Mondal",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Altaf-Hossain-Mondol.jpg",
+          "degree": "MBBS, DPM, FRSH (LONDON), Special Training on Drug Addicts",
+          "specialty": "Courtsey: Day Top International (America) & Colombo Plan Secretariat (Sri Lanka)",
+          "workplace": "Specialist in Mental, Drug Addicts & Brain Disorders",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-altaf-hossain-mondol/"
+        },
+        {
+          "name": "Dr. Shahriar Faruque",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr-Shahriar-Faruque.jpg",
+          "degree": "MBBS, BCS (Health), MCPS, MD (Psychiatry)",
+          "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
+          "workplace": "Registrar, Psychiatry",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-shahriar-faruk/"
+        },
+        {
+          "name": "Lt. Col. Dr. Sohel Hasan Chowdhury",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr.-Sohel-Hasan-Chowdhury.jpg",
+          "degree": "MBBS, FCPS (Psychiatry)",
+          "specialty": "Psychiatry, Drug Addiction & Mental Diseases Specialist",
+          "workplace": "Consultant, Psychiatry",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-sohel-hasan-chowdhury/"
+        },
+        {
+          "name": "Lt. Col. Dr. Md. Azad Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2025/01/Lt.-Col.-Dr.-Md.-Azad-Hossain.jpg",
+          "degree": "MBBS, FCPS (Psychiatry)",
+          "specialty": "Psychiatry Specialist & Psychotherapist(Mental Disorders, Sexual Disorders, Drug Addiction, Brain Disorders)",
+          "workplace": "Associate Professor (Psychiatry)",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-md-azad-hossain/"
+        },
+        {
+          "name": "Dr. Khaja Amirul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Hematology)",
+          "specialty": "Hematology, Blood Diseases & Blood Cancer Specialist",
+          "workplace": "Consultant, Hematology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-khaja-amirul-islam/"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "Skin Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/dermatologist-bogura/",
+      "doctors": [
+        {
+          "name": "Lt. Col. Dr. Md. Shahjahan Siraj",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr-Md-Shahjahan-Siraj.jpg",
+          "degree": "MBBS, MCPS, DVD, FCPS (Dermatology)",
+          "specialty": "Fellowship Training in Laser and Aesthetic Surgery (Milan, Italy, Thailand)",
+          "workplace": "Skin, Allergy, Sexual Diseases Specialist & Laser Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-md-shahjahan-siraj/"
+        },
+        {
+          "name": "Dr. Rozina Afroz",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Rozina-Afroz.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Dermatology & Venereology)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Assistant Professor, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-rozina-afroz/"
+        },
+        {
+          "name": "Prof. Dr. Md. Rashidul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Dr.-Md.-Rashidul-Islam.jpg",
+          "degree": "MBBS (Dhaka), DD (Thailand)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Ex. Professor, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-rashidul-islam/"
+        },
+        {
+          "name": "Dr. Akhterul Alam Azad",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Akhterul-Alam-Azad.jpg",
+          "degree": "MBBS, BCS (Health), DDV (BSMMU), CCD (BIRDEM)",
+          "specialty": "Dermatology (Skin, Allergy, Leprosy, Hair) & Sexual Medicine Specialist",
+          "workplace": "Associate Professor & Head",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-akhterul-alam-azad/"
+        },
+        {
+          "name": "Dr. Md. Khorshed Alam Mondal",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Khorshed-Alam-Mondal.jpg",
+          "degree": "MBBS (RMC), BCS (Health), DDV (Dhaka), FMD (Dhaka), DDOC (Austria)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Senior Consultant & Head, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-khorshed-alam-mondal/"
+        },
+        {
+          "name": "Dr. Farah Safa Huq",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Farah-Safa-Huq.jpg",
+          "degree": "MBBS, BCS (Health), MD (Dermatology)",
+          "specialty": "Fellow in Cosmetic Dermatology & Laser Surgery (India)",
+          "workplace": "Skin, Hair, Nail, Allergy, PRP Therapy & Sex Specialist",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-farah-safa-huq/"
+        },
+        {
+          "name": "Dr. Mst. Tazmeri Sultana",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Mst.-Tazmeri-Sultana.jpg",
+          "degree": "MBBS, BCS (Health), DDV (BSMMU), MCPS (Skin & Sex)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Assistant Professor, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-tazmeri-sultana/"
+        },
+        {
+          "name": "Dr. M. R. Siddiqui (Mamun)",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-M.-R.-Siddiqui-Mamun.jpg",
+          "degree": "MBBS, DDV (BSMMU), FCPS (Skin & Sex)",
+          "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+          "workplace": "Consultant (Dermatology)",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-m-r-siddiqui-mamun/"
+        },
+        {
+          "name": "Dr. Renu Gupta Joyaa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Renu-Gupta.jpg",
+          "degree": "MBBS, DDV (BSMMU)",
+          "specialty": "Special Training in Dermatosurgery & Cosmotology (India)",
+          "workplace": "Skin, Allergy, Sex Specialist & Dermatosurgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-renu-gupta-joyaa/"
+        },
+        {
+          "name": "Dr. Sifat-E-Jahan Antora",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-female.jpg",
+          "degree": "MBBS, BCS (Health), DDV (Dermatology)",
+          "specialty": "Skin, Allergy & Sex Specialist",
+          "workplace": "Consultant, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-sifat-e-jahan-antora/"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "Rheumatology Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/rheumatologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Mohammad Ruhul Amin Manzil",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Mohammad-Ruhul-Amin-Manzil.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology, Medicine, Rheumatology & Hypertension Specialist",
+          "workplace": "Consultant, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-mohammad-ruhul-amin-manzil/"
+        },
+        {
+          "name": "Dr. Md. Younus Ali",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, CCD (BIRDEM), D-CARD (BSMMU)",
+          "specialty": "Cardiology, Blood Pressure, Rheumatic Fever & Diabetes Specialist",
+          "workplace": "Assistant Professor, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-younus-ali-cardiology/"
+        },
+        {
+          "name": "Dr. A.K.M. Rezwanul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS, BCS (Health), MD (Cardiology)",
+          "specialty": "Cardiology, Medicine, Rheumatic Fever & Hypertension Specialist",
+          "workplace": "Junior Consultant, Cardiology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-a-k-m-rezwanul-islam/"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Sex Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/sexologist-bogura/",
+      "doctors": [
+        {
+          "name": "Lt. Col. Dr. Md. Shahjahan Siraj",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Lt.-Col.-Dr-Md-Shahjahan-Siraj.jpg",
+          "degree": "MBBS, MCPS, DVD, FCPS (Dermatology)",
+          "specialty": "Fellowship Training in Laser and Aesthetic Surgery (Milan, Italy, Thailand)",
+          "workplace": "Skin, Allergy, Sexual Diseases Specialist & Laser Surgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/lt-col-dr-md-shahjahan-siraj/"
+        },
+        {
+          "name": "Dr. Rozina Afroz",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Rozina-Afroz.jpg",
+          "degree": "MBBS, BCS (Health), FCPS (Dermatology & Venereology)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Assistant Professor, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-rozina-afroz/"
+        },
+        {
+          "name": "Prof. Dr. Md. Rashidul Islam",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Prof.-Dr.-Md.-Rashidul-Islam.jpg",
+          "degree": "MBBS (Dhaka), DD (Thailand)",
+          "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+          "workplace": "Ex. Professor, Dermatology & Venereology",
+          "chamber_link": "https://www.doctorbangladesh.com/prof-dr-md-rashidul-islam/"
+        },
+        {
+          "name": "Dr. Renu Gupta Joyaa",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Renu-Gupta.jpg",
+          "degree": "MBBS, DDV (BSMMU)",
+          "specialty": "Special Training in Dermatosurgery & Cosmotology (India)",
+          "workplace": "Skin, Allergy, Sex Specialist & Dermatosurgeon",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-renu-gupta-joyaa/"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Urology Specialist in Bogra",
+      "link": "https://www.doctorbangladesh.com/urologist-bogura/",
+      "doctors": [
+        {
+          "name": "Dr. Md. Ahsan Habib",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Ahsan-Habib.jpg",
+          "degree": "MBBS, BCS (Health), MS (Urology)",
+          "specialty": "Kidney, Prostate, Bladder, Urology Specialist & Surgeon",
+          "workplace": "Associate Professor, Urology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-urologist/"
+        },
+        {
+          "name": "Dr. Md. Rezaul Karim",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Rezaul-Karim.jpg",
+          "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+          "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
+          "workplace": "Assistant Professor & Head, Urology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim-urologist/"
+        },
+        {
+          "name": "Dr. Muhammad Faruk Hossain",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/dr-male.jpg",
+          "degree": "MBBS (Dhaka), BCS (Health), MS (Urology), FCPS (Surgery)",
+          "specialty": "Urology, Laparoscopic & Endoscopic Surgeon",
+          "workplace": "Assistant Professor, Urology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-muhammad-faruk-hossain/"
+        },
+        {
+          "name": "Dr. Md. Bakhtiar Uddin Jewel",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2021/09/Dr.-Md.-Bakhtiar-Uddin-Jewel.jpg",
+          "degree": "MBBS, BCS (Health), MS (Urology), FAUA (USA)",
+          "specialty": "Urology Specialist & Surgeon",
+          "workplace": "Assistant Professor, Urology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-bakhtiar-uddin-jewel/"
+        },
+        {
+          "name": "Dr. Md. Motiur Rahman",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/Dr.-Md.-Motiur-Rahman.jpg",
+          "degree": "MBBS, BCS(Health), MS (Urology) BSMMU",
+          "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
+          "workplace": "Urologist",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-motiur-rahman-urologist/"
+        },
+        {
+          "name": "Dr. Md. Abdul Baten",
+          "photo": "https://www.doctorbangladesh.com/wp-content/uploads/2025/03/Dr.-Md.-Abdul-Baten.jpg",
+          "degree": "MBBS, FICS (America), MS (Urology, BSMMU)",
+          "specialty": "Urologist and Andrologist",
+          "workplace": "Assistant Professor of Urology",
+          "chamber_link": "https://www.doctorbangladesh.com/dr-md-abdul-baten/"
+        }
+      ],
+      "count": 6
+    }
+  ],
+  "total_doctors": 216
+}
